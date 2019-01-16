@@ -1,0 +1,5 @@
+1	AlAhly	1	Zamalik	2	26-03-2018	ElSakran	Cairo
+4	Real	2	Barca	1	12-05-2018	Elsakran	dsf
+5	AlAhly	0	Zamalik	0	12-05-2018	asd	ads
+34	Real	0	AlAhly	0	12-06-2018	ddd	dddd
+88	Zamalik	4	Real	2	11-04-2018	gs	gf

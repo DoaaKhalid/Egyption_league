@@ -1,0 +1,12 @@
+﻿  Team.cpp
+c:\users\doaa\desktop\egyption league system final project\final oop 11 am\final oop 11 am\projectoop3 final\projectoop\team.cpp(505): warning C4018: '<': signed/unsigned mismatch
+c:\users\doaa\desktop\egyption league system final project\final oop 11 am\final oop 11 am\projectoop3 final\projectoop\team.cpp(525): warning C4018: '<': signed/unsigned mismatch
+c:\users\doaa\desktop\egyption league system final project\final oop 11 am\final oop 11 am\projectoop3 final\projectoop\team.cpp(572): warning C4018: '<': signed/unsigned mismatch
+c:\users\doaa\desktop\egyption league system final project\final oop 11 am\final oop 11 am\projectoop3 final\projectoop\team.cpp(600): warning C4018: '<': signed/unsigned mismatch
+c:\users\doaa\desktop\egyption league system final project\final oop 11 am\final oop 11 am\projectoop3 final\projectoop\team.cpp(635): warning C4018: '<': signed/unsigned mismatch
+c:\users\doaa\desktop\egyption league system final project\final oop 11 am\final oop 11 am\projectoop3 final\projectoop\team.cpp(643): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+c:\users\doaa\desktop\egyption league system final project\final oop 11 am\final oop 11 am\projectoop3 final\projectoop\player.cpp(412): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  ProjectOOP.vcxproj -> C:\Users\Doaa\Desktop\Egyption league system final project\Final OOP 11 AM\Final OOP 11 AM\ProjectOOP3 Final\Debug\ProjectOOP.exe
+  ProjectOOP.vcxproj -> C:\Users\Doaa\Desktop\Egyption league system final project\Final OOP 11 AM\Final OOP 11 AM\ProjectOOP3 Final\Debug\ProjectOOP.pdb (Full PDB)

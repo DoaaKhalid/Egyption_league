@@ -1,0 +1,7 @@
+1	Hossam_Ghaly	85	30	30	AlAhly	Goalkeeper
+2	Hazim	82	10	30	Zamalik	Goalkeeper
+5	Emad	256	20	15	AlAhly	midfielder
+4	seed	65	21	17	Zamalik	Defender
+7	ahmed	77	185	17	Real	Goalkeeper
+6	jkh	78	101	41	Barca	Goalkeeper
+12	mostafa	34	0	333	ddd	Forward
